@@ -1,0 +1,27 @@
+﻿body{
+    background-color: #white !important;
+    color: #242526 !important;
+}
+
+.title{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.item{
+    display: none;
+}
+
+.active{
+    display: block;
+}
+
+.image{
+    width:100%;
+    heigth:200px;
+    border-radius:10px
+}
+li{
+    color:black;
+    font-size:12px;
+}
